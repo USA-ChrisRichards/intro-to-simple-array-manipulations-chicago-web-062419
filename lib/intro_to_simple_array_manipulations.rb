@@ -1,1 +1,7 @@
-using_push
+def using_push
+  
+end
+
+def using_unshift
+  
+end
